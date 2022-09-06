@@ -1,0 +1,4 @@
+﻿Msg 156, Level 15, State 1, Line 55
+Incorrect syntax near the keyword 'from'.
+
+Completion time: 2022-09-06T16:39:35.8278769+05:30
