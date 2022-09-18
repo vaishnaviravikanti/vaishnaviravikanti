@@ -1,9 +1,0 @@
-﻿SalesMan                       city                           SalesMan
------------------------------- ------------------------------ ------------------------------
-Nail Knite                     Paris                          Fabian Johns
-Mc Lyon                        Paris                          Fabian Johns
-
-(2 rows affected)
-
-
-Completion time: 2022-09-07T17:06:00.3137150+05:30
